@@ -21,6 +21,6 @@ CREATE TABLE products (
     description TEXT,
     size VARCHAR(255),
     cost_price FLOAT(20),
-    selling_price FLOAT(20)
+    selling_price FLOAT(20
 );
 
